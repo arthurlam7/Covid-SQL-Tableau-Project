@@ -1,3 +1,5 @@
+-- Link to dataset: https://ourworldindata.org/covid-deaths
+
 /* Exploring data set 
 select *
 from `covid-analysis-385018.covid_death.coviddeath`
