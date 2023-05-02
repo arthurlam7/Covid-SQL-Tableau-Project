@@ -1,4 +1,5 @@
 -- Link to dataset: https://ourworldindata.org/covid-deaths
+-- Link to Visualization: https://public.tableau.com/shared/JQQBSKQ9S?:display_count=n&:origin=viz_share_link
 
 /* Exploring data set 
 select *
